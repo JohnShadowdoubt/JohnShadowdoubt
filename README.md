@@ -26,7 +26,7 @@ I perform gambling* on the stock market
 *relatable to my level of knowledge
 
 <div align="center">
-  <strong>also</strong>, my financial advisor looking at my futures & ETF retirement plan probably <br/>
+  financial advisor looking at my ETFs
   <img alt="aaa" src="https://github.com/user-attachments/assets/c0456ddf-40f5-463e-85be-91402889f288" />
 </div>
 
