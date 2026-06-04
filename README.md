@@ -26,10 +26,6 @@ I perform gambling* on the stock market
 *relatable to my level of knowledge
 
 
-  (financial advisor looking at my ETFs) </br>
-  <img alt="aaa" src="https://github.com/user-attachments/assets/c0456ddf-40f5-463e-85be-91402889f288" />
-
-
 ### Occupation
 CEO of Iridium Software (one person) Corporation
 Currently on contract with orange accounting company
